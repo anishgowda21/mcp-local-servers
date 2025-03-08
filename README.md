@@ -2,7 +2,7 @@
 
 This repository contains a collection of simple Model Context Protocol (MCP) servers designed for local execution. The included servers, such as mcp-filesystem (a clone of Anthropic's official filesystem server) and mcp-cmd-exec, can be combined with the Claude Desktop App to create a low-power Claude Code without an API KEY.
 
-By running these servers, you can integrate them with the Claude Desktop App to perform tasks like file manipulation and command execution.
+By running these servers, you can integrate them with the Claude Desktop App to perform tasks like file manipulation and command execution .
 
 [This project](https://github.com/anishgowda21/github-viewer) is fully built by Claude Desktop App (including git management) using the `mcp-filesystem` and `mcp-cmd-exec` servers.
 
